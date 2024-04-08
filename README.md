@@ -2,7 +2,7 @@
 
 A collection of Berachain EVM examples: code, frameworks, languages, contracts, and more.
 
-## Requirements
+## Requirements 
 
 - NVM or Node `v18.18.2+`
 - pnpm (recommended)
